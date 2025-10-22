@@ -58,7 +58,7 @@
     <!-- 英雄区域 -->
     <section id="home" class="pt-24 md:pt-0 min-h-screen flex items-center relative">
         <div class="absolute inset-0 z-0">
-            <img src="C:\Users\lzd\Desktop\微信图片_20251022210939.jpg" alt="飞机飞行在天空中" class="w-full h-full object-cover">
+            <img src="http://photogzmaz.photo.store.qq.com/psc?/V51YXxUV0Q1d9k0v4vxj3NeB3I3X7c7O/TmEUgtj9EK6.7V8ajmQrEFz1nb900tka1n4NqhOHbKFSgvwkPfjh2ZQRuNsHy7PgENxBDoz6XhofOfuGkaIjiUInol.gy*vtLcUjRt3dNRM!/b&bo=DAP6AQwD.gEBFzA!&rf=viewer_4" alt="飞机飞行在天空中" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-dark/50"></div>
         </div>
         
