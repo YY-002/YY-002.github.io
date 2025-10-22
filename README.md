@@ -196,7 +196,7 @@
             
             <div class="grid md:grid-cols-3 gap-8">
                 <div class="bg-white rounded-xl shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-                    <img src="https://tse4-mm.cn.bing.net/th/id/OIP-C.BdJTEBkXxuPwEOVTYYhwFwHaLJ?w=186&h=281&c=7&r=0&o=5&pid=1.7" alt="方教练" class="w-full h-72 object-cover">
+                    <img src="http://photogzmaz.photo.store.qq.com/psc?/V51YXxUV0Q1d9k0v4vxj3NeB3I3X7c7O/TmEUgtj9EK6.7V8ajmQrEEaMuDA1cUXbLXcUkp36Waf0N.uSZV1SArJhVKqs7RLjegJDF5Ye.oHABI53eLeswa76BiJljQiD*63azVCWqLM!/b&bo=kgTfBZIE3wUBByA!&rf=viewer_4" alt="方教练" class="w-full h-72 object-cover">
                     <div class="p-6 text-center">
                         <h3 class="font-bold text-xl mb-1">方贵干</h3>
                         <p class="text-primary mb-3">总飞行教官</p>
@@ -209,7 +209,7 @@
                 </div>
                 
                 <div class="bg-white rounded-xl shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-                    <img src="https://tse1-mm.cn.bing.net/th/id/OIP-C.Blh_ZZZhXr0wF7wDIwpoKwHaLJ?w=186&h=281&c=7&r=0&o=5&pid=1.7" alt="杨教练" class="w-full h-72 object-cover">
+                    <img src="http://photogzmaz.photo.store.qq.com/psc?/V51YXxUV0Q1d9k0v4vxj3NeB3I3X7c7O/TmEUgtj9EK6.7V8ajmQrEFz1nb900tka1n4NqhOHbKE7hERgfNLaTaq9tpLkrYmy4b2F*701t*g3Qr0JsUSECLh9UasBKCg57RhFwZ*9vgM!/b&bo=0ALSBdAC0gUBFzA!&rf=viewer_4" alt="杨教练" class="w-full h-72 object-cover">
                     <div class="p-6 text-center">
                         <h3 class="font-bold text-xl mb-1">杨家肥</h3>
                         <p class="text-primary mb-3">高级飞行教官</p>
@@ -222,7 +222,7 @@
                 </div>
                 
                 <div class="bg-white rounded-xl shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-                    <img src="https://tse4-mm.cn.bing.net/th/id/OIP-C.Xf1OkCkChX0l3S-qrb38tQHaLJ?w=186&h=280&c=7&r=0&o=5&pid=1.7" alt="梁教练" class="w-full h-72 object-cover">
+                    <img src="http://photogzmaz.photo.store.qq.com/psc?/V51YXxUV0Q1d9k0v4vxj3NeB3I3X7c7O/TmEUgtj9EK6.7V8ajmQrEFz1nb900tka1n4NqhOHbKH4Hj1hlMHsYFKoO6Z6bHd0KpoBgBDfOpXaL6.raG1zYfzHBwcOCTdE0yOkPguikRo!/b&bo=AAUEBAAFBAQBFzA!&rf=viewer_4" alt="梁教练" class="w-full h-72 object-cover">
                     <div class="p-6 text-center">
                         <h3 class="font-bold text-xl mb-1">梁志铭</h3>
                         <p class="text-primary mb-3">飞行理论教官</p>
