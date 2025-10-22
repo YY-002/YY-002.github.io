@@ -209,7 +209,7 @@
                 </div>
                 
                 <div class="bg-white rounded-xl shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-                    <img src="http://photogzmaz.photo.store.qq.com/psc?/V51YXxUV0Q1d9k0v4vxj3NeB3I3X7c7O/TmEUgtj9EK6.7V8ajmQrEFz1nb900tka1n4NqhOHbKE7hERgfNLaTaq9tpLkrYmy4b2F*701t*g3Qr0JsUSECLh9UasBKCg57RhFwZ*9vgM!/b&bo=0ALSBdAC0gUBFzA!&rf=viewer_4" alt="杨教练" class="w-full h-72 object-cover">
+                    <img src="http://photogzmaz.photo.store.qq.com/psc?/V51YXxUV0Q1d9k0v4vxj3NeB3I3X7c7O/TmEUgtj9EK6.7V8ajmQrELJKT04io9ATC1006UfHmahkNdd8rGNYbaMfthvpaHMyoN*kFlz2ldp8WIb1xYBhiwq8NNF0*ShxLuSdsbFWHZM!/b&bo=OASgBTgEoAUBFzA!&rf=viewer_4" alt="杨教练" class="w-full h-72 object-cover">
                     <div class="p-6 text-center">
                         <h3 class="font-bold text-xl mb-1">杨家肥</h3>
                         <p class="text-primary mb-3">高级飞行教官</p>
