@@ -58,7 +58,7 @@
     <!-- 英雄区域 -->
     <section id="home" class="pt-24 md:pt-0 min-h-screen flex items-center relative">
         <div class="absolute inset-0 z-0">
-            <img src="https://ts1.tc.mm.bing.net/th/id/OIP-C.tXOzT5yVvqyRyPWauVqSJAHaEn?rs=1&pid=ImgDetMain&o=7&rm=3" alt="飞机飞行在天空中" class="w-full h-full object-cover">
+            <img src="C:\Users\lzd\Desktop\微信图片_20251022210939.jpg" alt="飞机飞行在天空中" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-dark/50"></div>
         </div>
         
