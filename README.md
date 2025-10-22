@@ -222,7 +222,7 @@
                 </div>
                 
                 <div class="bg-white rounded-xl shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-                    <img src="http://photogzmaz.photo.store.qq.com/psc?/V51YXxUV0Q1d9k0v4vxj3NeB3I3X7c7O/TmEUgtj9EK6.7V8ajmQrEFz1nb900tka1n4NqhOHbKH4Hj1hlMHsYFKoO6Z6bHd0KpoBgBDfOpXaL6.raG1zYfzHBwcOCTdE0yOkPguikRo!/b&bo=AAUEBAAFBAQBFzA!&rf=viewer_4" alt="梁教练" class="w-full h-72 object-cover">
+                    <img src="http://photogzmaz.photo.store.qq.com/psc?/V51YXxUV0Q1d9k0v4vxj3NeB3I3X7c7O/TmEUgtj9EK6.7V8ajmQrELJKT04io9ATC1006UfHmahnMpp.60Mylu3haLSyXXy5SEruCiMhWv4lBQgh8tsTd.A5*bS5EAt4F5djFmW35Sk!/b&bo=*wRMBf8ETAUBFzA!&rf=viewer_4" alt="梁教练" class="w-full h-72 object-cover">
                     <div class="p-6 text-center">
                         <h3 class="font-bold text-xl mb-1">梁志铭</h3>
                         <p class="text-primary mb-3">飞行理论教官</p>
