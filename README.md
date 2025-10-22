@@ -196,7 +196,7 @@
             
             <div class="grid md:grid-cols-3 gap-8">
                 <div class="bg-white rounded-xl shadow-sm overflow-hidden hover:shadow-md transition-shadow">
-                    <img src="http://photogzmaz.photo.store.qq.com/psc?/V51YXxUV0Q1d9k0v4vxj3NeB3I3X7c7O/TmEUgtj9EK6.7V8ajmQrEEaMuDA1cUXbLXcUkp36Waf0N.uSZV1SArJhVKqs7RLjegJDF5Ye.oHABI53eLeswa76BiJljQiD*63azVCWqLM!/b&bo=kgTfBZIE3wUBByA!&rf=viewer_4" alt="方教练" class="w-full h-72 object-cover">
+                    <img src="http://photogzmaz.photo.store.qq.com/psc?/V51YXxUV0Q1d9k0v4vxj3NeB3I3X7c7O/TmEUgtj9EK6.7V8ajmQrELJKT04io9ATC1006UfHmaiO2VAI02oi1uga.MFAJx5yrsLC*a.*jy1C.xXkI8KwSD1kymNBBSs*6QMFHceqO1c!/b&bo=OASgBTgEoAUBFzA!&rf=viewer_4" alt="方教练" class="w-full h-72 object-cover">
                     <div class="p-6 text-center">
                         <h3 class="font-bold text-xl mb-1">方贵干</h3>
                         <p class="text-primary mb-3">总飞行教官</p>
